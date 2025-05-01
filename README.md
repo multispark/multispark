@@ -3,7 +3,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpiaTdzbWl2MTRnaDd4azBpMjFyMjhmYnFjZXJheHNneTN2ZmJmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nM2LLy0AeecUOEjEMZ/giphy.gif" alt="Pixel Art" align="right" width="200">
 
 [![GitHub multispark](https://img.shields.io/github/followers/multispark?label=follow&style=social)](https://github.com/multispark)
-[![Linkedin: Josh](https://img.shields.io/badge/-Josh%20Oh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-y-oh/)](https://www.linkedin.com/in/joshua-y-oh/) 
+[![Linkedin: Josh](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joshua-y-oh/)
 
 ### Technologies and Tools
 
